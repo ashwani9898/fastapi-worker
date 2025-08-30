@@ -1,0 +1,10 @@
+fastapi
+uvicorn[standard]
+python-multipart
+httpx
+python-jose[cryptography]
+python-dotenv
+openai
+pillow
+requests
+requests-oauthlib
